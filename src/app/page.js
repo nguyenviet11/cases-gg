@@ -26,7 +26,7 @@ export default function Home() {
           </span>
         </h3>
         <p className={styles.text2}>
-          Checking if the site connection is secure tessttt
+          Checking if the site connection is secure
         </p>
         <p className={styles.text3}>
           We needs to review the security of your connection before proceeding
